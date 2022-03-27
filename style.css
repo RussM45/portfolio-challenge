@@ -15,10 +15,10 @@ background-position: 80%;
 }
 
 .my-work {
-    display: flex;
+    display: flexbox;
     flex-wrap: wrap;
     justify-content: left;
-    align-items:center;
+    
 }
 
 .run-buddy {
